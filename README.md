@@ -18,3 +18,4 @@
 ## ツツジ式原木製造機
 ### 1連
 ### 2連
+<img src="https://github.com/Yumehimeji/Minecraft/blob/main/gennboku2.png" width=150>
