@@ -37,8 +37,8 @@ manifest.jsonには、次のようなコードを入力します。（チュー�
 参考サイトは[こちら](https://minecraft.fandom.com/ja/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/Bedrock_Edition/%E3%83%93%E3%83%98%E3%82%A4%E3%83%93%E3%82%A2%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%E3%81%AE%E4%BD%9C%E6%88%90)
 ## 骨粉製造機
 ### 最大効率
-- 効率：毎分90個超
-- 大きさ：17××17(x×y×z)
+- 効率：毎分115個
+- 大きさ：15×12×15(x×y×z)
 [download](https://github.com/Yumehimeji/Minecraft/blob/main/%E6%9C%80%E5%BC%B7%E9%AA%A8%E7%B2%89%E8%A3%BD%E9%80%A0%E6%A9%9F.mcstructure)
 <img src="https://github.com/Yumehimeji/Minecraft/blob/main/koppunhp.png" width=250>
 
