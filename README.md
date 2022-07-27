@@ -35,6 +35,7 @@ manifest.jsonには、次のようなコードを入力します。（チュー�
 また、このファイルと同じところに画像ファイル（pack_icon.png）を作成します。（画像は何でもよい）これでマイクラ内のワールドの設定画面のビヘイビアパックに今作ったものが追加されるので有効にします。
 
 参考サイトは[こちら](https://minecraft.fandom.com/ja/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB/Bedrock_Edition/%E3%83%93%E3%83%98%E3%82%A4%E3%83%93%E3%82%A2%E3%83%BC%E3%83%91%E3%83%83%E3%82%AF%E3%81%AE%E4%BD%9C%E6%88%90)
+#装置
 ## 骨粉製造機
 ### 最大効率
 - 効率：毎分115個
@@ -57,3 +58,5 @@ manifest.jsonには、次のようなコードを入力します。（チュー�
 - 大きさ：16××16(x×y×z)
 [download](https://github.com/Yumehimeji/Minecraft/blob/main/2%E9%80%A3%E5%8E%9F%E6%9C%A8%E8%A3%BD%E9%80%A0%E6%A9%9F.mcstructure)
 <img src="https://github.com/Yumehimeji/Minecraft/blob/main/gennboku2.png" width=250>
+
+## 花増殖装置
