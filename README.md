@@ -1,5 +1,6 @@
 # はじめに
 これら構造物は統合版で利用可能です。
+<!--
 ## 構造物のインポート方法
 以下のフォルダを開き、その中にmystructureという名でフォルダを作ります。
 
@@ -60,3 +61,4 @@ manifest.jsonには、次のようなコードを入力します。（チュー�
 <img src="https://github.com/Yumehimeji/Minecraft/blob/main/gennboku2.png" width=250>
 
 ## 花増殖装置
+-->
